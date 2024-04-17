@@ -1,0 +1,11 @@
+.main-container {
+    padding: 2% 15% 5% 12.08%;
+    background-color: white;
+
+}
+
+.dark-mode .main-container {
+    background-color: #383838;
+    padding: 2% 15% 5% 12.08%;
+    color: #ffffff;
+}

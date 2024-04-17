@@ -1,0 +1,130 @@
+.section-container {
+    padding: 0 15% 6rem 12.08%;
+    background-color: white;
+}
+
+.section-container-dark {
+    background-color: #211E23;
+
+}
+
+
+.projects-header-h1 {
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 36px;
+    text-align: center;
+    border-top: 2px solid #BAB2E7;
+    padding-top: 2rem;
+
+}
+
+.projects-header-h1-dark {
+    color: #AEBCCF;
+}
+
+.projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    justify-content: center;
+
+}
+
+.project {
+    max-width: 300px;
+    flex-basis: 100%;
+
+}
+
+.project-img {
+    height: 180px;
+    width: 300px;
+
+}
+
+.project-header-h3 {
+    color: #4338CA;
+    font-size: 30px;
+    font-weight: 500;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.project-header-h3-dark {
+    color: #CFCBFF;
+}
+
+.project-info-p {
+    font-size: 14px;
+    color: #6B7280;
+    font-weight: 350;
+}
+
+.project-info-p-dark {
+    color: white;
+}
+
+
+.project-button {
+    display: flex;
+    gap: 6px;
+    color: var(--text-primary);
+    border-color: var(--border-primary);
+
+}
+
+.project-routing {
+    display: flex;
+    justify-content: space-between;
+    color: #3730A3;
+    font-weight: 400;
+    text-decoration: underline;
+
+}
+
+.project-routing-dark {
+    color: #E1E1FF;
+
+}
+
+.project-button-info {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #3730A3;
+    color: #3730A3;
+    background-color: #FFFFFF;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    font-weight: 500;
+}
+
+.project-button-info-dark {
+    border-color: #8F88FF;
+    color: #8F88FF;
+    background-color: #211E23;
+}
+
+
+
+
+
+
+@media (min-width: 768px) {
+    .projects-header-h1 {
+        margin-bottom: 40px;
+        font-size: 48px;
+        text-align: left;
+    }
+
+    .projects-container {
+        justify-content: space-between;
+
+    }
+}
