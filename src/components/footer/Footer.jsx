@@ -14,7 +14,6 @@ function Footer() {
       .get("https://661eeda216358961cd932017.mockapi.io/products")
       .then((response) => {
         setfooterFetchData(response.data);
-        toast.success("Footer data loaded successfully");
       })
       .catch((error) => {
         console.error("Error fetching data:", error);

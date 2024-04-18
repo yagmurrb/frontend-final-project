@@ -69,7 +69,7 @@ export const languages = {
           "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/yagmurrb/bookstore-s11g1-",
-        viewSiteLink: "https://bookstore-s11g1.onrender.com",
+        viewSiteLink: "https://symphonious-tartufo-9cc8db.netlify.app/",
       },
     ],
     skillsData: [
@@ -155,7 +155,7 @@ export const languages = {
           "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmesine olanak tanıyan basit, özelleştirilebilir, minimum kurulum çerez eklentisi. Bu, Vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur ve git deposu her türlü özelleştirmeyi yapar kodlama ve temalar mümkün.",
         technologies: ["React", "Redux", "Axios"],
         githubLink: "https://github.com/yagmurrb/fsweb-s7-challenge-pizza",
-        viewSiteLink: "https://wit-s7-spa.vercel.app/siparis",
+        viewSiteLink: "https://wit-s7-spa.vercel.app/",
       },
     ],
     skillsData: [
